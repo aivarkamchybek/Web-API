@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\12816\\Downloads\\WEB API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|c:\\users\\12816\\downloads\\web api\\web api\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|solutionrelative:web api\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|c:\\users\\12816\\downloads\\web api\\web api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|solutionrelative:web api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|c:\\users\\12816\\downloads\\web api\\web api\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|solutionrelative:web api\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|c:\\users\\12816\\downloads\\web api\\web api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|solutionrelative:web api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|c:\\users\\12816\\downloads\\web api\\web api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|solutionrelative:web api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|c:\\users\\12816\\downloads\\web api\\web api\\migrations\\202407121408588_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|solutionrelative:web api\\migrations\\202407121408588_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|c:\\users\\12816\\downloads\\web api\\web api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2F020C6-0340-4BAF-A037-5CDBF494002D}|WEB API\\WEB API.csproj|solutionrelative:web api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WEB API\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WEB API\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:18:39.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WEB API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WEB API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:09:44.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202407121408588_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Migrations\\202407121408588_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WEB API\\Migrations\\202407121408588_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Migrations\\202407121408588_InitialCreate.cs",
+              "RelativeToolTip": "WEB API\\Migrations\\202407121408588_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:09:10.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "WEB API\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "WEB API\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:08:45.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Web.config",
+              "RelativeDocumentMoniker": "WEB API\\Web.config",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Web.config",
+              "RelativeToolTip": "WEB API\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-12T14:07:45.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Models\\ProductContext.cs",
+              "RelativeDocumentMoniker": "WEB API\\Models\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Models\\ProductContext.cs",
+              "RelativeToolTip": "WEB API\\Models\\ProductContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:06:06.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WEB API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\WEB API\\WEB API\\Models\\Product.cs",
+              "RelativeToolTip": "WEB API\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:05:38.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
