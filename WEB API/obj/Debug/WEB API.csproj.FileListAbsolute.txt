@@ -89,3 +89,16 @@ C:\Users\12816\Downloads\WEB API\WEB API\obj\Debug\WEB API.dll
 C:\Users\12816\Downloads\WEB API\WEB API\obj\Debug\WEB API.pdb
 C:\Users\12816\Downloads\WEB API\WEB API\obj\Debug\WEB_API.Migrations.InitialCreate.resources
 C:\Users\12816\Downloads\WEB API\WEB API\obj\Debug\WEB API.csproj.GenerateResource.cache
+C:\Users\12816\Downloads\Web API\WEB API\bin\Microsoft.Owin.Cors.dll
+C:\Users\12816\Downloads\Web API\WEB API\bin\Microsoft.Owin.dll
+C:\Users\12816\Downloads\Web API\WEB API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\12816\Downloads\Web API\WEB API\bin\Microsoft.Owin.Security.dll
+C:\Users\12816\Downloads\Web API\WEB API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\12816\Downloads\Web API\WEB API\bin\Owin.dll
+C:\Users\12816\Downloads\Web API\WEB API\bin\System.Web.Cors.dll
+C:\Users\12816\Downloads\Web API\WEB API\bin\Microsoft.Owin.xml
+C:\Users\12816\Downloads\Web API\WEB API\bin\Microsoft.Owin.Cors.xml
+C:\Users\12816\Downloads\Web API\WEB API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\12816\Downloads\Web API\WEB API\bin\Microsoft.Owin.Security.xml
+C:\Users\12816\Downloads\Web API\WEB API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\12816\Downloads\Web API\WEB API\obj\Debug\WEB_API.Migrations.User.resources

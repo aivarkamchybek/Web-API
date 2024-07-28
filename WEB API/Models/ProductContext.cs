@@ -13,5 +13,6 @@ namespace WEB_API.Models
         }
 
         public DbSet<Product> Products { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }
